@@ -34,8 +34,8 @@
 
 ## Overview
 
-<img src="images/404-Laptop.PNG" style="width: 100px">
-<img src="images/404-Mobile.PNG" style="width: 100px">
+<img src="images/404-Laptop.PNG" style="width: 500px">
+<img src="images/404-Mobile.PNG" style="width: 300px">
 
 - My demo is viewable at <a href="https://ryanericbrock.github.io/404-Not-Found-Challenge/">Demo</a>
 - This was a fantastic way to help solidify my knowledge of HTML, CSS, and Bootstrap.
