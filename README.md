@@ -60,7 +60,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [ryanericbrock](https://ryanericbrock.com)
 - GitHub [@ryanericbrock](https://github.com/ryanericbrock)
 - Twitter [@ryanericbrock](https://twitter.com/ryanericbrock)
-=======
+
 # 404-Not-Found-Challenge
 Solution to the 404 Not Found Challenge on devChallenges.io
 >2f6b1a13cb5cc624cdf1b70adfc9c408843ac611
