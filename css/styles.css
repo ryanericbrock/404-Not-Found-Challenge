@@ -1,0 +1,44 @@
+body {
+  font-family: "Inconsolata", monospace;
+  text-align: left;
+}
+
+.title {
+  margin: 3% 5%;
+  font-weight: bold;
+  font-size: 1.5rem;
+  letter-spacing: -0.15rem;
+}
+
+.scarecrow {
+  margin: 5% 0 5% 15%;
+  width: 70%;
+}
+
+.subheading {
+  margin: 5% 0;
+  font-weight: 900;
+  font-size: 3.5rem;
+}
+
+.message {
+  margin-bottom: 10%;
+  margin-right: 40%;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .message {
+    margin-right: 0;
+  }
+}
+
+.btn {
+  border-radius: 0;
+  padding: 3% 8%;
+}
+
+.footer {
+  margin-top: 10%;
+  text-align: center;
+}
