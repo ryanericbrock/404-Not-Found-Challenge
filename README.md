@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 <h1 align="center">404 Not Found Challenge</h1>
 
 <div align="center">
@@ -27,7 +25,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
@@ -36,8 +34,8 @@
 
 ## Overview
 
-![screenshot](images/404-Laptop.PNG)
-![screenshot](images/404-Mobile.PNG)
+<img src="images/404-Laptop.PNG" style="width: 100px">
+<img src="images/404-Mobile.PNG" style="width: 100px">
 
 - My demo is viewable at <a href="https://ryanericbrock.github.io/404-Not-Found-Challenge/">Demo</a>
 - This was a fantastic way to help solidify my knowledge of HTML, CSS, and Bootstrap.
@@ -65,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 =======
 # 404-Not-Found-Challenge
 Solution to the 404 Not Found Challenge on devChallenges.io
->>>>>>> 2f6b1a13cb5cc624cdf1b70adfc9c408843ac611
+>2f6b1a13cb5cc624cdf1b70adfc9c408843ac611
